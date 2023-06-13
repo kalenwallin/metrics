@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Caeden117
+          user: kalenwallin
           template: classic
           base: header, activity, repositories, metadata
           config_timezone: America/Los_Angeles
