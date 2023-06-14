@@ -1,2 +1,2 @@
 # Metrics
-<img src="https://github.com/kalenwallin/metrics/blob/master/github-metrics.svg"/>
+<img src="https://raw.githubusercontent.com/kalenwallin/metrics/master/github-metrics.svg"/>
