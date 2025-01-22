@@ -2345,22 +2345,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">portfolio.v3</span>
-                                <div class="bar" style="width: 19.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 19.704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">25%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">wallinfarms</span>
-                                <div class="bar" style="width: 15.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 15.112000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Sandhills.SSO.Website.Core</span>
-                                <div class="bar" style="width: 12.12%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 12.072000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Sandhills.TradeSites.MVC</span>
-                                <div class="bar" style="width: 11.015999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.976%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">14%</span>
                             </div>
                         </div>
@@ -2369,7 +2369,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2025, 01:14:13 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jan 2025, 02:19:49 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
